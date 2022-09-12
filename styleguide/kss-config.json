@@ -1,5 +1,5 @@
 {
-  "title": "Mozilla SUMO Styleguide",
+  "title": "tkmx_nc_tkmx Mozilla styleguide",
   "//": "The source and destination paths are relative to this file.",
   "source": "../kitsune/sumo/static/sumo/scss",
   "destination": "build",
